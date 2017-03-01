@@ -3,3 +3,7 @@ body{
     margin:0;
     background-color: #eee;
 }
+.container{
+    width:800px;
+    margin:0 auto;
+}
